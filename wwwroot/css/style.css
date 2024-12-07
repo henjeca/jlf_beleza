@@ -1,0 +1,76 @@
+body {
+    background-color: white;
+    font-family: 'MADE TOMMY';
+    
+}
+    #sobre{
+
+        font-size: 20px;
+        margin-bottom: 500px;
+    }
+    #servicos{
+        font-size: 20px;
+        margin-bottom: 370px;
+    }
+    #local{
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    #contato {
+    margin-left:auto ;
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align:center;
+    }
+    #pfoto{
+        width:100%;
+       
+    }
+    #prifoto{
+        margin-bottom: 370px;
+    }
+    #carrosselft{
+        margin-bottom: 370px;
+    }
+    #separar{
+        margin-bottom: 150px;
+    }
+    #redes {
+    margin-left: auto;
+    display: grid;
+    grid-template-rows: auto auto; /* Duas linhas automáticas */
+    align-items: center; /* Centraliza verticalmente */
+    justify-items: center;
+    margin-left:auto;
+    }
+
+    .redes {
+    display: inline-block;
+    vertical-align: top; /* Isso alinhará as divs ao topo */
+    flex-direction: column;
+    align-items: center;
+    margin-right: 2cm; /* Adiciona espaço à direita da div redes */
+    
+    }
+
+.whats {
+    display: inline-block;
+    vertical-align: top; /* Isso alinhará as divs ao topo */
+    flex-direction: column;
+    align-items: center;
+    margin-right: 2cm; /* Adiciona espaço à direita da div redes */
+    background-color: red;
+}
+#sociais {
+ margin:auto;
+ 
+}
+    .whats img{
+
+        margin-left:auto;
+    }
+    .redes img {
+    margin-right: auto;
+    }
+
+    
